@@ -1001,22 +1001,22 @@ AddLanguage('EN','english',{
 	"[Grandma quote]A nice grandma to bake more cookies.": "A nice grandma to bake more cookies.",
 	"[Grandma business name]Oven": "Oven",
 	"[Grandma business quote]A crucial element of baking cookies.": "A crucial element of baking cookies.",
-	"Farm": "/",
-	"farm": "/",
-	"farms": "/",
+	"Farm": "Dez",
+	"farm": "dez",
+	"farms": "dezs",
 	"%1 farm": [
-		"%1 farm",
-		"%1 farms"
+		"%1 dez",
+		"%1 dezs"
 	],
 	"[Farm quote]Grows cookie plants from cookie seeds.": "Grows cookie plants from cookie seeds.",
 	"[Farm business name]Kitchen": "Kitchen",
 	"[Farm business quote]The more kitchens, the more cookies your employees can produce.": "The more kitchens, the more cookies your employees can produce.",
-	"Mine": "/",
-	"mine": "/",
-	"mines": "/",
+	"Mine": "Lenny",
+	"mine": "lenny",
+	"mines": "lennys",
 	"%1 mine": [
-		"%1 mine",
-		"%1 mines"
+		"%1 lenny",
+		"%1 lennys"
 	],
 	"[Mine quote]Mines out cookie dough and chocolate chips.": "Mines out cookie dough and chocolate chips.",
 	"[Mine business name]Secret recipe": "Secret recipe",
