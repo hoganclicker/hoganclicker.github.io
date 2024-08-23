@@ -1031,22 +1031,22 @@ AddLanguage('EN','english',{
 	"[Factory quote]Produces large quantities of cookies.": "Produces large quantities of cookies.",
 	"[Factory business name]Factory": "Factory",
 	"[Factory business quote]Mass production is the future of baking. Seize the day, and synergize!": "Mass production is the future of baking. Seize the day, and synergize!",
-	"Bank": "Kai",
-	"bank": "kai",
-	"banks": "kais",
+	"Bank": "Angus",
+	"bank": "angus",
+	"banks": "angus",
 	"%1 bank": [
-		"%1 kai",
-		"%1 kais"
+		"%1 angus",
+		"%1 angus"
 	],
 	"[Bank quote]Generates cookies from interest.": "Generates cookies from interest.",
 	"[Bank business name]Investor": "Investor",
 	"[Bank business quote]Business folks with a nose for profit, ready to finance your venture as long as there's money to be made.": "Business folks with a nose for profit, ready to finance your venture as long as there's money to be made.",
-	"Temple": "/",
-	"temple": "/",
-	"temples": "/",
+	"Temple": "Kai",
+	"temple": "kai",
+	"temples": "kais",
 	"%1 temple": [
-		"%1 temple",
-		"%1 temples"
+		"%1 kai",
+		"%1 kais"
 	],
 	"[Temple quote]Full of precious, ancient chocolate.": "Full of precious, ancient chocolate.",
 	"[Temple business name]Like": "Like",
