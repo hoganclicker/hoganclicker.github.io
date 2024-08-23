@@ -1021,12 +1021,12 @@ AddLanguage('EN','english',{
 	"[Mine quote]Mines out cookie dough and chocolate chips.": "Mines out cookie dough and chocolate chips.",
 	"[Mine business name]Secret recipe": "Secret recipe",
 	"[Mine business quote]These give you the edge you need to outsell those pesky competitors.": "These give you the edge you need to outsell those pesky competitors.",
-	"Factory": "/",
-	"factory": "/",
-	"factories": "/",
+	"Factory": "Jack",
+	"factory": "jack",
+	"factories": "jacks",
 	"%1 factory": [
-		"%1 factory",
-		"%1 factories"
+		"%1 jack",
+		"%1 jacks"
 	],
 	"[Factory quote]Produces large quantities of cookies.": "Produces large quantities of cookies.",
 	"[Factory business name]Factory": "Factory",
