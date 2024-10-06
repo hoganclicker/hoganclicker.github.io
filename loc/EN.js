@@ -1031,12 +1031,12 @@ AddLanguage('EN','english',{
 	"[Factory quote]Produces large quantities of cookies.": "Produces large quantities of cookies.",
 	"[Factory business name]Factory": "Factory",
 	"[Factory business quote]Mass production is the future of baking. Seize the day, and synergize!": "Mass production is the future of baking. Seize the day, and synergize!",
-	"Bank": "Angus",
-	"bank": "angus",
-	"banks": "angus",
+	"Bank": "/",
+	"bank": "/",
+	"banks": "/",
 	"%1 bank": [
-		"%1 angus",
-		"%1 angus"
+		"%1 bank",
+		"%1 banks"
 	],
 	"[Bank quote]Generates cookies from interest.": "Generates cookies from interest.",
 	"[Bank business name]Investor": "Investor",
